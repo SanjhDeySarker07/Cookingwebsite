@@ -1,4 +1,4 @@
-cooking website
+cooking website:
 Project Overview:Create a basic yet unique cooking website using HTML and CSS. The website will consist of three pages: Home, Recipes, and Contact. This project will focus on clean design, responsive layout, and user-friendly navigation.
 Pages Description:
 1)Home Page:
